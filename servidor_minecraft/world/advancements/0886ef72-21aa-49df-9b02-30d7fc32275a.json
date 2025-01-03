@@ -1283,16 +1283,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-01-03 15:12:55 +0000",
       "minecraft:cold_ocean": "2025-01-03 14:26:47 +0000",
       "minecraft:flower_forest": "2025-01-03 15:44:20 +0000",
       "minecraft:beach": "2025-01-03 14:25:46 +0000",
       "minecraft:forest": "2025-01-03 14:20:45 +0000",
-      "minecraft:ocean": "2025-01-03 15:15:06 +0000",
       "minecraft:deep_ocean": "2025-01-03 15:14:27 +0000",
       "minecraft:river": "2025-01-03 14:29:49 +0000",
-      "minecraft:meadow": "2025-01-03 14:36:05 +0000",
       "minecraft:stony_shore": "2025-01-03 14:29:41 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-03 15:12:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-03 15:57:49 +0000",
+      "minecraft:ocean": "2025-01-03 15:15:06 +0000",
+      "minecraft:meadow": "2025-01-03 14:36:05 +0000",
+      "minecraft:birch_forest": "2025-01-03 15:57:29 +0000",
       "minecraft:plains": "2025-01-03 14:29:24 +0000"
     },
     "done": false
@@ -1428,6 +1430,7 @@
       "cooked_chicken": "2025-01-03 14:50:48 +0000",
       "cooked_mutton": "2025-01-03 14:31:36 +0000",
       "potato": "2025-01-03 14:50:56 +0000",
+      "cooked_beef": "2025-01-03 15:57:05 +0000",
       "baked_potato": "2025-01-03 15:36:32 +0000"
     },
     "done": false
