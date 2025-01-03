@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 16:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 14:45:43 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 14:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 16:53:13 +0000"
     },
     "done": true
   },
@@ -899,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-03 16:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 14:23:49 +0000"
@@ -1040,6 +1058,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-03 15:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 16:53:13 +0000"
     },
     "done": true
   },
@@ -1215,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 16:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-03 14:23:32 +0000"
@@ -1360,10 +1390,12 @@
       "minecraft:beach": "2025-01-03 14:25:46 +0000",
       "minecraft:dark_forest": "2025-01-03 16:29:55 +0000",
       "minecraft:forest": "2025-01-03 14:20:45 +0000",
+      "minecraft:taiga": "2025-01-03 16:44:46 +0000",
       "minecraft:deep_ocean": "2025-01-03 15:14:27 +0000",
       "minecraft:river": "2025-01-03 14:29:49 +0000",
       "minecraft:stony_shore": "2025-01-03 14:29:41 +0000",
       "minecraft:lush_caves": "2025-01-03 16:35:33 +0000",
+      "minecraft:dripstone_caves": "2025-01-03 16:47:17 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 15:12:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 15:57:49 +0000",
       "minecraft:ocean": "2025-01-03 15:15:06 +0000",
