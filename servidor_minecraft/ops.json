@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "fb4b5937-313e-45f7-ba55-17b762bc726d",
+    "name": "Broadcastee",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
