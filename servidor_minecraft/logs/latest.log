@@ -3418,3 +3418,21 @@ java.nio.file.NoSuchFileException: server.properties
 [19:40:57] [Server thread/INFO]: /transfer <hostname> [<port>]
 [19:40:57] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
 [19:41:46] [Server thread/INFO]: There are 2 of a max of 20 players online: cmj6, AidenMafia
+[19:52:02] [Server thread/INFO]: There are 2 of a max of 20 players online: cmj6, AidenMafia
+[19:52:58] [Server thread/INFO]: AidenMafia lost connection: Disconnected
+[19:52:58] [Server thread/INFO]: AidenMafia left the game
+[19:55:34] [Server thread/INFO]: There are 1 of a max of 20 players online: cmj6
+[19:58:21] [Server thread/INFO]: cmj6 has made the advancement [Acquire Hardware]
+[19:58:34] [Server thread/INFO]: cmj6 lost connection: Disconnected
+[19:58:34] [Server thread/INFO]: cmj6 left the game
+[19:58:45] [Server thread/INFO]: Stopping the server
+[19:58:45] [Server thread/INFO]: Stopping server
+[19:58:45] [Server thread/INFO]: Saving players
+[19:58:45] [Server thread/INFO]: Saving worlds
+[19:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:58:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:58:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:58:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:58:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
