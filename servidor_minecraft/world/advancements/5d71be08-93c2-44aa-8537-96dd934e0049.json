@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-01-03 14:39:49 +0000",
       "minecraft:forest": "2025-01-03 14:15:08 +0000",
       "minecraft:ocean": "2025-01-03 14:43:41 +0000",
+      "minecraft:jungle": "2025-01-03 18:22:28 +0000",
       "minecraft:deep_ocean": "2025-01-03 14:43:12 +0000",
       "minecraft:river": "2025-01-03 15:01:02 +0000",
       "minecraft:stony_shore": "2025-01-03 14:57:55 +0000",
@@ -1613,6 +1614,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-03 18:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-03 17:56:27 +0000"
@@ -1625,6 +1656,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/purple_bundle": {
+    "criteria": {
+      "has_purple_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-03 18:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-03 17:50:07 +0000"
@@ -1634,6 +1677,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-03 17:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-03 18:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:10:08 +0000"
     },
     "done": true
   },
