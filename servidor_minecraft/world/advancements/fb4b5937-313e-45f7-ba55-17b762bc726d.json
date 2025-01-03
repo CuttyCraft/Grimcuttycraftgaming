@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-03 18:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 14:25:03 +0000"
@@ -962,6 +968,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-03 14:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-03 17:55:38 +0000"
     },
     "done": true
   },
