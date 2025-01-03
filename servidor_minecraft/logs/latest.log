@@ -1,0 +1,99 @@
+[14:14:09] [ServerMain/ERROR]: Failed to load properties from file: server.properties
+java.nio.file.NoSuchFileException: server.properties
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at arc.b(SourceFile:62) ~[server-1.21.3.jar:?]
+	at aqz.a(SourceFile:141) ~[server-1.21.3.jar:?]
+	at ara.<init>(SourceFile:12) ~[server-1.21.3.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:114) ~[server-1.21.3.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:14:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:14:11] [ServerMain/INFO]: No existing world data, creating new world
+[14:14:13] [ServerMain/INFO]: Loaded 1337 recipes
+[14:14:13] [ServerMain/INFO]: Loaded 1448 advancements
+[14:14:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:14:13] [Server thread/INFO]: Loading properties
+[14:14:13] [Server thread/INFO]: Default game type: SURVIVAL
+[14:14:13] [Server thread/INFO]: Generating keypair
+[14:14:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:14:13] [Server thread/INFO]: Using epoll channel type
+[14:14:13] [Server thread/INFO]: Preparing level "world"
+[14:14:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:14:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:14:34] [Server thread/INFO]: Time elapsed: 8706 ms
+[14:14:34] [Server thread/INFO]: Done (21.258s)! For help, type "help"
+[14:14:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:14:34] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/Grimcuttycraftgaming/msx.py<--[HERE]
+[14:15:05] [User Authenticator #1/INFO]: UUID of player Ultraverse07 is 5d71be08-93c2-44aa-8537-96dd934e0049
+[14:15:07] [Server thread/INFO]: Ultraverse07[/127.35.38.27:39461] logged in with entity id 50 at (-7.5, 80.0, 0.5)
+[14:15:07] [Server thread/INFO]: Ultraverse07 joined the game
+[14:15:15] [User Authenticator #2/INFO]: UUID of player Broadcastee is fb4b5937-313e-45f7-ba55-17b762bc726d
+[14:15:17] [Server thread/INFO]: Broadcastee[/127.101.2.165:41447] logged in with entity id 203 at (5.5, 71.0, 7.5)
+[14:15:17] [Server thread/INFO]: Broadcastee joined the game
+[14:15:20] [Server thread/INFO]: <Ultraverse07> yes
+[14:15:20] [Server thread/INFO]: <Broadcastee> woah!
+[14:15:21] [Server thread/INFO]: <Ultraverse07> YES
+[14:15:23] [Server thread/INFO]: <Ultraverse07> IT WORKED
+[14:15:55] [Server thread/INFO]: Ultraverse07 was slain by Broadcastee
+[14:15:58] [Server thread/INFO]: <Broadcastee> !
+[14:16:11] [Server thread/INFO]: <Broadcastee> its kinda laggy
+[14:16:20] [Server thread/INFO]: <Broadcastee> idk if its beacause im in the other side of the world or if its the server itself
+[14:16:31] [Server thread/INFO]: <Ultraverse07> probably because you're in the other side of the world
+[14:16:38] [Server thread/INFO]: <Broadcastee> most likely
+[14:16:45] [Server thread/INFO]: <Ultraverse07> BUT IT WORKS
+[14:16:49] [Server thread/INFO]: <Ultraverse07> THATS ALL THAT MATTERS
+[14:16:55] [Server thread/INFO]: <Broadcastee> yep!
+[14:17:20] [Server thread/INFO]: <Ultraverse07> sheep save me
+[14:17:39] [Server thread/INFO]: Broadcastee fell from a high place
+[14:17:42] [Server thread/INFO]: <Ultraverse07> WOW
+[14:17:42] [Server thread/INFO]: <Ultraverse07> OKAY
+[14:20:34] [Server thread/INFO]: <Broadcastee> scary song
+[14:20:36] [Server thread/INFO]: <Ultraverse07> this is
+[14:20:39] [Server thread/INFO]: <Ultraverse07> really scary to see
+[14:20:41] [Server thread/INFO]: <Ultraverse07> with keepmesafe
+[14:20:43] [User Authenticator #3/INFO]: UUID of player DevynGreen5 is 0886ef72-21aa-49df-9b02-30d7fc32275a
+[14:20:44] [Server thread/INFO]: DevynGreen5[/127.184.231.92:38463] logged in with entity id 1230 at (3.5, 71.0, 9.5)
+[14:20:44] [Server thread/INFO]: DevynGreen5 joined the game
+[14:20:48] [Server thread/INFO]: <Ultraverse07> hello vro
+[14:20:50] [Server thread/INFO]: <DevynGreen5> SUP
+[14:20:55] [Server thread/INFO]: <Ultraverse07> whoa
+[14:20:56] [Server thread/INFO]: <Ultraverse07> its
+[14:20:58] [Server thread/INFO]: <Ultraverse07> steeeeeve
+[14:21:13] [Server thread/INFO]: <Broadcastee> steve
+[14:21:22] [Server thread/INFO]: Broadcastee fell from a high place
+[14:21:25] [Server thread/INFO]: <Ultraverse07> LOL
+[14:21:28] [Server thread/INFO]: <Ultraverse07> I FUCKING KILLED RAIMM
+[14:21:33] [Server thread/INFO]: <Broadcastee> i was on half a heart after you pushed me
+[14:21:35] [Server thread/INFO]: <Broadcastee> btw
+[14:22:12] [Server thread/INFO]: <Ultraverse07> my mean trick
+[14:22:36] [Server thread/INFO]: <Broadcastee> egged
+[14:22:39] [Server thread/INFO]: <Ultraverse07> wow
+[14:22:40] [Server thread/INFO]: <Ultraverse07> okay
+[14:23:25] [Server thread/INFO]: Broadcastee has made the advancement [Stone Age]
+[14:23:50] [Server thread/INFO]: Broadcastee has made the advancement [Getting an Upgrade]
+[14:23:59] [Server thread/INFO]: DevynGreen5 has made the advancement [Stone Age]
+[14:23:59] [Server thread/INFO]: Ultraverse07 has made the advancement [Stone Age]
