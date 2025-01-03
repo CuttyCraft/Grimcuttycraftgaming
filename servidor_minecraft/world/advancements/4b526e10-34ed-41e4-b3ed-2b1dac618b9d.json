@@ -514,7 +514,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 15:18:20 +0000",
       "minecraft:magma_cube": "2025-01-03 16:36:04 +0000",
-      "minecraft:creeper": "2025-01-03 15:17:59 +0000"
+      "minecraft:creeper": "2025-01-03 15:17:59 +0000",
+      "minecraft:drowned": "2025-01-03 16:55:11 +0000"
     },
     "done": false
   },
