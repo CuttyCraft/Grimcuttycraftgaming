@@ -1174,6 +1174,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-01-03 19:07:29 +0000",
       "cooked_cod": "2025-01-03 16:31:31 +0000",
       "sweet_berries": "2025-01-03 18:38:02 +0000",
       "dried_kelp": "2025-01-03 15:27:44 +0000"
@@ -1654,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 19:12:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-03 18:10:08 +0000"
@@ -1687,6 +1694,12 @@
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-01-03 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 19:12:19 +0000"
     },
     "done": true
   },
@@ -1783,6 +1796,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-03 17:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 19:12:19 +0000"
     },
     "done": true
   },
