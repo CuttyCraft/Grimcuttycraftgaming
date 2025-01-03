@@ -570,6 +570,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 15:18:20 +0000",
       "minecraft:magma_cube": "2025-01-03 16:36:04 +0000",
+      "minecraft:spider": "2025-01-03 19:25:18 +0000",
       "minecraft:creeper": "2025-01-03 15:17:59 +0000",
       "minecraft:drowned": "2025-01-03 16:55:11 +0000"
     },
@@ -948,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 18:45:20 +0000"
@@ -963,6 +970,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-03 18:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
     },
     "done": true
   },
@@ -984,9 +997,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 18:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
     },
     "done": true
   },
@@ -1017,6 +1042,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 18:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
     },
     "done": true
   },
@@ -1053,6 +1084,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 18:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-03 19:25:19 +0000"
     },
     "done": true
   },
